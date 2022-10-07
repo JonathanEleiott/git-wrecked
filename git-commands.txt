@@ -1,0 +1,10 @@
+git init
+  - initializing (starting) a git project
+  - allows git version control
+
+git status
+  - shows us which files have been changed 
+  - where the files are at in the process of adding them to the history
+
+git add 
+  - moves our changes to the staging area
