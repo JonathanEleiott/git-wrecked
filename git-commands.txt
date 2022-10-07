@@ -9,5 +9,17 @@ git status
 git add 
   - moves our changes to the staging area
 
-git checkout
+git commit
+  - saves the changes to the history
+
+git checkout .
   - undo changes that have not been added to the staging area
+
+git reset
+  - moves changes from staging area to local changes
+
+git revert
+  - changes code to the previous commit
+
+git log
+  - displays commit history
