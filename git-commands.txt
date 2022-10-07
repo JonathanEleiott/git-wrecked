@@ -8,3 +8,6 @@ git status
 
 git add 
   - moves our changes to the staging area
+
+git checkout
+  - undo changes that have not been added to the staging area
